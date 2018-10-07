@@ -11,7 +11,10 @@ int main()
 	return 0;
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
 // end
 // fjksfjk
+=======
+>>>>>>> parent of 2436b2f... 再次提交
 =======
 >>>>>>> parent of 2436b2f... 再次提交
